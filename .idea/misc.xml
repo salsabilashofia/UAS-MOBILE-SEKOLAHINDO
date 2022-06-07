@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Modul4/app/src/main/res/layout/activity_mainhewan.xml" value="0.22" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/fragment_hewanair.xml" value="0.11611030478955008" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/fragment_hewandarat.xml" value="0.1272644927536232" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/fragment_hewanudara.xml" value="0.22447916666666667" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/fragment_slideshow.xml" value="0.22447916666666667" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/list_air.xml" value="0.22447916666666667" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/list_darat.xml" value="0.22447916666666667" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/list_udara.xml" value="0.1" />
+        <entry key="..\:/Modul4/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Modul4/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Modul4/app/src/main/res/menu/main.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/ic_menu_camera.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/ic_menu_home.xml" value="0.2435" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/drawable/side_nav_bar.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/activity_mainhewan.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_hewanair.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_hewandarat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_hewankeong.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_hewanudara.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_sekolah_indonesia.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_sekolah_sma.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_sekolah_smp.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_siputairtawar.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/fragment_siputlaut.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/ic_menu_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_air.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_darat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_keong.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_sekolah_sd.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_sekolah_sma.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_sekolah_smp.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_siputairlaut.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_siputlaut.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/list_udara.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/layout/nav_header_main.xml" value="0.16" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/modul4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/Users/Alcha/Videos/New folder/praktikummobile2/modul4/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

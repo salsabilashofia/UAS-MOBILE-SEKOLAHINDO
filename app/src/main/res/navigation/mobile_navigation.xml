@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.UASMobile.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_sd"
+        android:name="com.example.UASMobile.ui.SekolahDasar.SDFragment"
+        android:label="@string/pil_listkeong"
+        tools:layout="@layout/fragment_sekolah_sd" />
+
+    <fragment
+        android:id="@+id/nav_smp"
+        android:name="com.example.UASMobile.ui.SekolahMenengahAkhir.SMAFragment"
+        android:label="@string/pil_listsiputlaut"
+        tools:layout="@layout/fragment_sekolah_sma" />
+
+    <fragment
+        android:id="@+id/nav_sma"
+        android:name="com.example.UASMobile.ui.SekolahMenengahPertama.SMPFragment"
+        android:label="@string/pil_listsiputairtawar"
+        tools:layout="@layout/fragment_sekolah_smp" />
+</navigation>

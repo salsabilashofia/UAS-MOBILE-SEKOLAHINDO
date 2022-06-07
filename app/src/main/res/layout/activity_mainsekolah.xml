@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainactivitySekolah">
+
+    <TextView
+        android:id="@+id/bahasa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/gantibahasa"
+        android:textAppearance="?attr/textAppearanceHeadline3"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="29dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/indo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Bahasa Indonesia"
+        app:layout_constraintEnd_toEndOf="@+id/bahasa"
+        app:layout_constraintStart_toStartOf="@+id/bahasa"
+        app:layout_constraintTop_toBottomOf="@+id/bahasa" />
+
+    <Button
+        android:id="@+id/english"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English"
+        app:layout_constraintEnd_toEndOf="@+id/indo"
+        app:layout_constraintStart_toStartOf="@+id/indo"
+        app:layout_constraintTop_toBottomOf="@+id/indo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">School</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">School List</string>
+    <string name="nav_header_subtitle" translatable="false">Aplikasi List Data Sekolah</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Setting</string>
+    <string name="gantibahasa">Choose Language</string>
+    <string name="welcome">Welcome</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="pil_listkeong">List SD</string>
+    <string name="pil_listsiputlaut">List SMA</string>
+    <string name="pil_listsiputairtawar">List SMP</string>
+    <string name="menu_gallery">School</string>
+    <string name="sd1">SD Teknik</string>
+    <string name="sd2">SD Kurnia</string>
+    <string name="sd3">SD Negeri Pasar Lama 1</string>
+    <string name="sd4">SD Negeri Kelayan Dalam 5</string>
+    <string name="sd5">SDIT Al-Khair</string>
+    <string name="smp1">SMP Teknik</string>
+    <string name="smp2">SMP Kurnia</string>
+    <string name="sma1">SMA Teknik</string>
+    <string name="sma2">SMA Kurnia</string>
+    <string name="sma3">SMA Negeri 2 Banjarbaru</string>
+</resources>
